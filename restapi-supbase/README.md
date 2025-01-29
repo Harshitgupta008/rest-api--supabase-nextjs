@@ -1,19 +1,6 @@
-# rest-api--supabase-nextjs
-Rest api using open-source -> supabase with next js 
-
-## Getting Started
-
-setup-> 
-1 & 2. both  
-install supabase using javascript -> check supabase doc for installation -->
-create env file and add 
-NEXT_PUBLIC_SUPABASE_URL --> your supabse url
-NEXT_PUBLIC_SUPABASE_ANON_KEY -->  your anon key 
-
-create table in your database 
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Getting Started
 
 First, run the development server:
 
